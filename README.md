@@ -10,4 +10,5 @@ The screenshots below show the following:
 
 The RoomWordsSample app as it starts, with the initial list of words
 The activity to add a word
-![f79b6d29612488b2](https://user-images.githubusercontent.com/75279465/141947409-8473c9ae-a829-4277-895c-209aa99a2409.png)![9f96622d49695bd5](https://user-images.githubusercontent.com/75279465/141947417-da4c76b1-eaf2-4ea9-8213-c8f5cb040d6a.png)
+![f79b6d29612488b2](https://user-images.githubusercontent.com/75279465/141947409-8473c9ae-a829-4277-895c-209aa99a2409.png)
+![9f96622d49695bd5](https://user-images.githubusercontent.com/75279465/141947417-da4c76b1-eaf2-4ea9-8213-c8f5cb040d6a.png)
