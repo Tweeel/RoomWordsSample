@@ -36,4 +36,7 @@ public interface WordDao {
 
     @Query("SELECT * from word_table LIMIT 1")
     Word[] getAnyWord();
+
+    @Delete
+    void deleteWord(Word word);
 }
